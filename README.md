@@ -1,1 +1,1 @@
-# TAI-IP-Image-Classification
+# Image-Classification
